@@ -1,0 +1,18 @@
+{
+    "name": "Desirestore.online",
+    "short_name": "Desire store",
+    "description": "Desire Store is a website that offers easy and ad-free downloads of software programs for Windows, Mac, and Linux operating systems.",
+    "icons": [
+      {
+        "src": "android-chrome-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+     
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+  }
+  
